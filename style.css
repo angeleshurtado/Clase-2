@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-@import url('https://fonts.googleapis.com/css2?family=Raleway:ital@1&display=swap');
+@@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
 
 * {
     margin: 0;
@@ -14,7 +14,7 @@ html, body{
 }
 
 body {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Varela Round', sans-serif;
     color: #F0AEC8;
     background: url(https://img.freepik.com/foto-gratis/fondo-papel-blanco-arte_35956-2379.jpg?size=626&ext=jpg);
     line-height: 1.25;
